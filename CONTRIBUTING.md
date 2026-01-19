@@ -3,6 +3,7 @@
 Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
+- Beautiful is better than ugly.
 - Suggested codebases should be well documented.
 - Make an individual pull request for each suggestion.
 - Use the following format: `[CODEBASE](LINK) - DESCRIPTION.`
